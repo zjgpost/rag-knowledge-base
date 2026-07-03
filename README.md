@@ -7,7 +7,7 @@ An enterprise-grade **hybrid retrieval** knowledge base and Q&A system. Multilin
 
 > 📖 [中文文档](README_CN.md)  
 > Corresponds to the resume project: *Enterprise RAG Knowledge Base and Intelligent Q&A System*  
-> GitHub: https://github.com/zhengjianguo/rag-knowledge-base
+> GitHub: https://github.com/zjgpost/rag-knowledge-base
 
 ---
 
@@ -54,7 +54,7 @@ An enterprise-grade **hybrid retrieval** knowledge base and Q&A system. Multilin
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/zhengjianguo/rag-knowledge-base.git
+git clone https://github.com/zjgpost/rag-knowledge-base.git
 cd rag-knowledge-base
 pip install -r requirements.txt
 
@@ -265,7 +265,8 @@ Current status: **9 tests passing**.
 
 ## 📝 Related Blog Posts
 
-- (Placeholder) RAG Retrieval Inaccurate? Try Dense + Sparse + Rerank
+- [RAG 检索不准？试试多语言三阶段混合检索：Dense + Sparse + Rerank](https://juejin.cn/spost/7657863114353426470)（掘金）  
+  [CSDN 镜像](https://blog.csdn.net/janguo_qql/article/details/162549098?sharetype=blogdetail&sharerId=162549098&sharerefer=PC&sharesource=janguo_qql&spm=1011.2480.3001.8118)
 - (Placeholder) Semantic Cache: The Overlooked LLM Cost Optimization
 - (Placeholder) RBAC Design for Enterprise Knowledge Bases
 

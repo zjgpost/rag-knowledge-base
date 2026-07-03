@@ -43,9 +43,9 @@ benchmark = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/zhengjianguo/rag-knowledge-base"
-Repository = "https://github.com/zhengjianguo/rag-knowledge-base"
-Issues = "https://github.com/zhengjianguo/rag-knowledge-base/issues"
+Homepage = "https://github.com/zjgpost/rag-knowledge-base"
+Repository = "https://github.com/zjgpost/rag-knowledge-base"
+Issues = "https://github.com/zjgpost/rag-knowledge-base/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]

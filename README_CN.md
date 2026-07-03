@@ -6,7 +6,7 @@
 一个企业级 **混合检索** 知识库与智能问答系统。多语言意图级评测：NDCG@10=0.855 / Recall@10=0.973。
 
 > 对应简历项目：*企业级 RAG 知识库与智能问答系统*  
-> GitHub：https://github.com/liming-agent/rag-knowledge-base
+> GitHub：https://github.com/zjgpost/rag-knowledge-base
 
 ---
 
@@ -53,7 +53,7 @@
 ## 🚀 快速开始
 
 ```bash
-git clone https://github.com/liming-agent/rag-knowledge-base.git
+git clone https://github.com/zjgpost/rag-knowledge-base.git
 cd rag-knowledge-base
 pip install -r requirements.txt
 
@@ -250,8 +250,11 @@ python -m pytest tests -v
 
 ## 📝 相关技术博客
 
-- 《RAG 检索不准？试试多语言三阶段混合检索：Dense + Sparse + Rerank》
-- 《语义缓存：被忽视的 LLM 成本优化点》
+- 《[RAG 检索不准？试试多语言三阶段混合检索：Dense + Sparse + Rerank](https://juejin.cn/spost/7657863114353426470)》（掘金）  
+  [CSDN 镜像](https://blog.csdn.net/janguo_qql/article/details/162549098?sharetype=blogdetail&sharerId=162549098&sharerefer=PC&sharesource=janguo_qql&spm=1011.2480.3001.8118)
+- （待发布）《语义缓存：被忽视的 LLM 成本优化点》
+- （待发布）《企业级知识库的 RBAC 权限隔离设计》
+
 - 《企业级知识库的 RBAC 权限隔离设计》
 
 ---
