@@ -1,0 +1,20 @@
+{"query": "Redis connection pool full", "relevant_doc_indices": [0], "category": "keyword_precise"}
+{"query": "How to fix Redis max_connections error", "relevant_doc_indices": [0], "category": "keyword_precise"}
+{"query": "Redis connection pool configuration", "relevant_doc_indices": [0], "category": "keyword_precise"}
+{"query": "What controls Redis max client connections", "relevant_doc_indices": [0], "category": "keyword_precise"}
+{"query": "Redis pool exhausted", "relevant_doc_indices": [0], "category": "keyword_precise"}
+{"query": "How to tune Redis for high throughput", "relevant_doc_indices": [1], "category": "semantic"}
+{"query": "Redis performance best practices", "relevant_doc_indices": [1], "category": "semantic"}
+{"query": "Optimizing Redis memory and persistence", "relevant_doc_indices": [1], "category": "semantic"}
+{"query": "Redis tuning guide", "relevant_doc_indices": [1], "category": "semantic"}
+{"query": "Improve Redis latency", "relevant_doc_indices": [1], "category": "semantic"}
+{"query": "Monitor Linux server resources", "relevant_doc_indices": [2], "category": "semantic"}
+{"query": "Check CPU and memory usage on Linux", "relevant_doc_indices": [2], "category": "keyword_precise"}
+{"query": "Server monitoring tools", "relevant_doc_indices": [2], "category": "semantic"}
+{"query": "vmstat and iostat usage", "relevant_doc_indices": [2], "category": "keyword_precise"}
+{"query": "Linux performance observability", "relevant_doc_indices": [2], "category": "semantic"}
+{"query": "in-memory store client connections", "relevant_doc_indices": [0], "category": "hybrid_advantage"}
+{"query": "cache connection limit", "relevant_doc_indices": [0], "category": "hybrid_advantage"}
+{"query": "NoSQL database connection settings", "relevant_doc_indices": [0], "category": "hybrid_advantage"}
+{"query": "high throughput key value store tuning", "relevant_doc_indices": [1], "category": "hybrid_advantage"}
+{"query": "OS resource monitoring commands", "relevant_doc_indices": [2], "category": "hybrid_advantage"}

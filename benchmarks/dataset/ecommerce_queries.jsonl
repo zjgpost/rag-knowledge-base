@@ -1,0 +1,75 @@
+{"query": "Can you check the status of my order? It's been a week since I placed it and I haven't received any shipping notification.", "relevant_intents": ["order_status"]}
+{"query": "Pesanan saya sudah dikirim belum ya? Saya sudah tidak sabar ingin menerimanya!", "relevant_intents": ["order_status"]}
+{"query": "Order [ORDER_ID] status update please. It was supposed to arrive yesterday.", "relevant_intents": ["order_status"]}
+{"query": "Hey, just checking in on my groceries order! When will it arrive? I'm home all afternoon.", "relevant_intents": ["order_status"]}
+{"query": "Hi there! I placed an order three days ago but haven't received any shipping confirmation yet. Could you check the status for me?", "relevant_intents": ["order_status"]}
+{"query": "我买的东西已经过了预计送达日期三天了，物流信息显示还卡在转运中心，这是怎么回事？", "relevant_intents": ["shipping_delay"]}
+{"query": "My package was supposed to arrive yesterday but the tracking still shows it's in transit. What's happening?", "relevant_intents": ["shipping_delay"]}
+{"query": "我的包裹 [TRACKING_ID] 已经显示‘运输中’五天了，还没到。请帮我查一下。", "relevant_intents": ["shipping_delay"]}
+{"query": "My order [ORDER_ID] is severely delayed. The tracking hasn't updated for a week. What's the holdup?", "relevant_intents": ["shipping_delay"]}
+{"query": "我的包裹已经显示发货五天了，但物流信息一直没更新，这是怎么回事？", "relevant_intents": ["shipping_delay"]}
+{"query": "Saya ingin tahu tentang polisi pulangan barang. Jika saya terima barang yang salah saiz, boleh saya pulangkan?", "relevant_intents": ["return_policy"]}
+{"query": "Hai, saya nak tanya. Kalau saya beli baju ni tapi saiz tak sesuai, boleh pulang balik tak?", "relevant_intents": ["return_policy"]}
+{"query": "Apa kebijakan pengembalian barang untuk produk elektronik? Apakah ada biaya pengiriman?", "relevant_intents": ["return_policy"]}
+{"query": "请问护肤品开封后可以退货吗？", "relevant_intents": ["return_policy"]}
+{"query": "Hey! What's your return policy for electronics? I bought a smart watch but I'm not sure about the size.", "relevant_intents": ["return_policy"]}
+{"query": "Halo, saya mau tanya tentang produk ini. Apakah baterainya tahan lama? Dan ada garansi berapa lama?", "relevant_intents": ["product_inquiry"]}
+{"query": "这款空气炸锅容量有多大？适合几口之家使用？", "relevant_intents": ["product_inquiry"]}
+{"query": "Hi there! I'm looking at the wireless earbuds on your page. Can you tell me if they're water-resistant? I need something for my morning jogs.", "relevant_intents": ["product_inquiry"]}
+{"query": "Apakah laptop ini sudah termasuk sistem operasi Windows? Dan berapa lama masa garansinya?", "relevant_intents": ["product_inquiry"]}
+{"query": "Adakah beg ini kalis air?", "relevant_intents": ["product_inquiry"]}
+{"query": "I want to request a refund for my order. The item arrived damaged and I've already submitted a return request but haven't received the refund yet.", "relevant_intents": ["refund_request"]}
+{"query": "我想申请订单 [ORDER_ID] 的退款。商品有质量问题，我已经上传了图片。", "relevant_intents": ["refund_request"]}
+{"query": "Saya ingin meminta bayaran balik untuk pesanan saya [ORDER_ID] kerana barang yang diterima tidak seperti yang dijangkakan.", "relevant_intents": ["refund_request"]}
+{"query": "Saya ingin meminta pengembalian dana untuk pesanan [ORDER_ID]. Produknya rusak saat sampai.", "relevant_intents": ["refund_request"]}
+{"query": "我已经申请退款一周了，钱还没到账，能帮忙催一下吗？", "relevant_intents": ["refund_request"]}
+{"query": "我收到的衣服颜色和网站上展示的不一样，我想换货可以吗？", "relevant_intents": ["exchange_request"]}
+{"query": "Saya terima kasut yang salah saiz. Saya mohon tukar kepada saiz yang betul.", "relevant_intents": ["exchange_request"]}
+{"query": "I received the wrong color for the shirt I ordered. Can I exchange it for the blue one instead?", "relevant_intents": ["exchange_request"]}
+{"query": "Sepatu yang saya terima kebesaran satu ukuran, bisa tukar ke ukuran lebih kecil?", "relevant_intents": ["exchange_request"]}
+{"query": "我收到的衣服尺码不对，想换成大一号的，订单号是[ORDER_ID]。", "relevant_intents": ["exchange_request"]}
+{"query": "Pembayaran saya gagal tapi duit sudah dipotong dari akaun bank. Apa yang patut saya buat?", "relevant_intents": ["payment_issue"]}
+{"query": "Saya cuba bayar dengan kad kredit tapi transaksi sentiasa gagal. Kenapa ya?", "relevant_intents": ["payment_issue"]}
+{"query": "Pembayaran saya lewat OVO gagal, tapi saldo sudah terpotong. Ini bagaimana?", "relevant_intents": ["payment_issue"]}
+{"query": "我用信用卡付款时一直显示失败，但钱已经扣了，怎么办？", "relevant_intents": ["payment_issue"]}
+{"query": "My COD payment wasn't collected. The delivery person just left the package.", "relevant_intents": ["payment_issue"]}
+{"query": "Saya punya voucher diskon tapi kenapa tidak bisa dipakai ya? Sudah saya masukkan kodenya tapi muncul error.", "relevant_intents": ["voucher_issue"]}
+{"query": "Voucher saya tidak terpakai padahal saya sudah belanja lebih dari minimum pembelian. Ini sangat mengecewakan.", "relevant_intents": ["voucher_issue"]}
+{"query": "Kode voucher [VOUCHER_CODE] tidak bisa dipakai. Kenapa?", "relevant_intents": ["voucher_issue"]}
+{"query": "Saya cuba guna baucar [VOUCHER_CODE] tetapi ia mengatakan tidak sah. Kenapa?", "relevant_intents": ["voucher_issue"]}
+{"query": "Saya coba pakai voucher tapi tidak bisa, padahal masih berlaku. Kenapa ya?", "relevant_intents": ["voucher_issue"]}
+{"query": "The laptop I received has a dead pixel on the screen. This is unacceptable for a brand new product.", "relevant_intents": ["product_defect"]}
+{"query": "The blender I received has a cracked jar. I just opened the box today. This is unacceptable.", "relevant_intents": ["product_defect"]}
+{"query": "Produk yang saya terima rusak, layar smartphone-nya pecah saat diterima.", "relevant_intents": ["product_defect"]}
+{"query": "The blender I received makes a terrible grinding noise and doesn't work properly. It's brand new!", "relevant_intents": ["product_defect"]}
+{"query": "The blender I received [ORDER_ID] makes a horrible grinding noise and the lid doesn't seal properly. This is clearly a defective unit.", "relevant_intents": ["product_defect"]}
+{"query": "我收到的商品和我订购的不一样。我买的是蓝色运动鞋，但收到了黑色皮鞋。", "relevant_intents": ["wrong_item_received"]}
+{"query": "I ordered a red dress but received a blue one instead. The order number is [ORDER_ID].", "relevant_intents": ["wrong_item_received"]}
+{"query": "I got headphones instead of the wireless mouse I ordered. What should I do?", "relevant_intents": ["wrong_item_received"]}
+{"query": "我收到的不是我下单的那个手机壳颜色，我想要的是透明的，但收到了黑色的。", "relevant_intents": ["wrong_item_received"]}
+{"query": "我收到了错误的商品。我订购的是运动手表，但包裹里是智能手表。订单号是[ORDER_ID]。", "relevant_intents": ["wrong_item_received"]}
+{"query": "Bila stok barang ini akan kembali? Saya sangat berminat untuk membelinya.", "relevant_intents": ["out_of_stock"]}
+{"query": "你们这款限量版手办显示缺货了，还会补货吗？", "relevant_intents": ["out_of_stock"]}
+{"query": "你们网站上那款热门游戏机显示缺货，什么时候会补货？", "relevant_intents": ["out_of_stock"]}
+{"query": "Hai, saya nampak stok untuk baju itu sudah habis. Bila agaknya ia akan kembali dalam stok?", "relevant_intents": ["out_of_stock"]}
+{"query": "Saya tengok baju kurung moden saiz L di kedai anda dah habis stok. Bila boleh restock?", "relevant_intents": ["out_of_stock"]}
+{"query": "Saya ingin membatalkan pesanan saya karena sudah tidak membutuhkan barang tersebut lagi.", "relevant_intents": ["cancellation_request"]}
+{"query": "请帮我取消订单 [ORDER_ID]，我改变主意了。", "relevant_intents": ["cancellation_request"]}
+{"query": "Saya ingin membatalkan pesanan saya yang belum dihantar lagi.", "relevant_intents": ["cancellation_request"]}
+{"query": "Batalkan pesanan saya [ORDER_ID]. Saya berubah pikiran.", "relevant_intents": ["cancellation_request"]}
+{"query": "Batalkan pesanan [ORDER_ID]. Saya salah pilih ukuran.", "relevant_intents": ["cancellation_request"]}
+{"query": "I've been waiting for 30 minutes on customer service chat. This is terrible service!", "relevant_intents": ["complaint_handling"]}
+{"query": "Ini kali ketiga saya mengadu tentang penjual ini. Barang selalu lambat dan tak seperti yang digambarkan. Saya sangat kecewa.", "relevant_intents": ["complaint_handling"]}
+{"query": "你们客服昨天承诺今天会解决，但问题还在。我要投诉。", "relevant_intents": ["complaint_handling"]}
+{"query": "Saya sudah komplain soal pengiriman terlambat tiga hari lalu, tapi belum ada tanggapan sama sekali.", "relevant_intents": ["complaint_handling"]}
+{"query": "I'm extremely disappointed. My order was marked delivered but I never received it. This is the second time!", "relevant_intents": ["complaint_handling"]}
+{"query": "请问这款手机的保修政策是怎样的？如果出现非人为损坏的问题如何处理？", "relevant_intents": ["warranty_question"]}
+{"query": "Hi, saya nak tahu pasal waranti untuk smartphone yang saya beli. Berapa lama warantinya?", "relevant_intents": ["warranty_question"]}
+{"query": "这个空调的保修期多久？包含安装和上门服务吗？", "relevant_intents": ["warranty_question"]}
+{"query": "Does this laptop come with a manufacturer's warranty? If so, how do I claim it if something goes wrong?", "relevant_intents": ["warranty_question"]}
+{"query": "你好，请问你们卖的这个电动牙刷有保修吗？保修期是多久？", "relevant_intents": ["warranty_question"]}
+{"query": "Saya nak beli kasut tapi tak pasti saiz yang sesuai. Tinggi saya 165cm dan berat 60kg.", "relevant_intents": ["size_recommendation"]}
+{"query": "Ukuran tubuh saya: dada 90cm, pinggang 70cm. Untuk kemeja ini, sebaiknya pilih ukuran apa?", "relevant_intents": ["size_recommendation"]}
+{"query": "我想买一条裙子，但不确定尺寸。我身高160，体重50公斤，应该选什么尺码？", "relevant_intents": ["size_recommendation"]}
+{"query": "Saya nak beli seluar jeans tapi tak pasti saiz mana. Tinggi saya 170cm, berat 65kg.", "relevant_intents": ["size_recommendation"]}
+{"query": "Saya nak beli seluar jeans online. Tinggi saya 170cm, berat 65kg. Saiz apa yang sesuai?", "relevant_intents": ["size_recommendation"]}

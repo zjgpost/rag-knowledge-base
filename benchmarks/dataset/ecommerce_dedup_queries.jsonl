@@ -1,0 +1,100 @@
+{"query": "Can you check the status of my order? It's been a week since I placed it and I haven't received any shipping notification.", "relevant_doc_indices": [11]}
+{"query": "Bila stok barang ini akan kembali? Saya sangat berminat untuk membelinya.", "relevant_doc_indices": [18]}
+{"query": "Hi there! I'm looking at the wireless earbuds on your page. Can you tell me if they're water-resistant? I need something for my morning jogs.", "relevant_doc_indices": [29]}
+{"query": "你们这款限量版手办显示缺货了，还会补货吗？", "relevant_doc_indices": [18]}
+{"query": "Hi there! I placed an order three days ago but haven't received any shipping confirmation yet. Could you check the status for me?", "relevant_doc_indices": [12]}
+{"query": "Saya ingin membatalkan pesanan saya yang belum dihantar lagi.", "relevant_doc_indices": [2]}
+{"query": "Hi there! I'm looking at the wireless earbuds in your store. Could you tell me if they are sweatproof? I want to use them for jogging.", "relevant_doc_indices": [29]}
+{"query": "Hai, saya nampak stok untuk baju itu sudah habis. Bila agaknya ia akan kembali dalam stok?", "relevant_doc_indices": [16]}
+{"query": "Hi, I'm interested in the wireless earbuds with ANC. Can you confirm if they come with different ear tip sizes and what the battery life is for the charging case?", "relevant_doc_indices": [30]}
+{"query": "Saya tengok baju kurung moden saiz L di kedai anda dah habis stok. Bila boleh restock?", "relevant_doc_indices": [16]}
+{"query": "My order [ORDER_ID] was supposed to arrive 3 days ago but the tracking still shows it's in transit. What's going on?", "relevant_doc_indices": [40]}
+{"query": "The running shoes I want are out of stock. Will they be back?", "relevant_doc_indices": [18]}
+{"query": "Hi! I saw this portable blender on your site. Can it crush ice cubes? I want to make smoothies.", "relevant_doc_indices": [29]}
+{"query": "Bila stok beg tote kulit ini akan masuk semula? Saya sangat nak beli.", "relevant_doc_indices": [18]}
+{"query": "Hi, I'm interested in the wireless earbuds you have listed. Could you tell me about the battery life and if they're sweat-proof?", "relevant_doc_indices": [29]}
+{"query": "Saya nak beli baju kurung yang ada dalam wishlist saya tapi sekarang dah out of stock. Bila akan restock?", "relevant_doc_indices": [16]}
+{"query": "Hey! Just wondering where my order [ORDER_ID] is? It's been a few days since I placed it.", "relevant_doc_indices": [12]}
+{"query": "我想取消订单[ORDER_ID]，还没发货吧？", "relevant_doc_indices": [0]}
+{"query": "Hai, saya cuba guna kod voucher [VOUCHER_CODE] semasa checkout tetapi ia mengatakan tidak sah. Boleh tolong semak?", "relevant_doc_indices": [50]}
+{"query": "I bought a blender from your store 3 months ago and it's already malfunctioning. Does it have a warranty?", "relevant_doc_indices": [55]}
+{"query": "Saya dah tunggu seminggu lebih untuk barang saya. No. tracking [TRACKING_ID] masih kat 'dalam perjalanan'. Apa yang berlaku?", "relevant_doc_indices": [40]}
+{"query": "This is the second time I've received damaged goods from your platform. Your packaging is terrible and I'm very frustrated.", "relevant_doc_indices": [3]}
+{"query": "Voucher saya tidak bisa digunakan. Katanya sudah kedaluwarsa padahal baru dapat kemarin.", "relevant_doc_indices": [49]}
+{"query": "我收到了错误的商品。我订购的是蓝色T恤，但收到了红色。", "relevant_doc_indices": [56]}
+{"query": "Hey, I bought a dress last week but it doesn't fit. Can I return it? What's the process?", "relevant_doc_indices": [38]}
+{"query": "Saya nak beli seluar jeans, tapi tak pasti saiz yang sesuai. Saya tinggi 170cm dan berat 65kg.", "relevant_doc_indices": [45]}
+{"query": "我收到的不是我订的蓝色连衣裙，而是绿色的。订单号是 [ORDER_ID]。", "relevant_doc_indices": [59]}
+{"query": "Pengiriman untuk pesanan [ORDER_ID] sudah lewat 3 hari dari estimasi. Kenapa ya?", "relevant_doc_indices": [40]}
+{"query": "我收到的衣服颜色不对，我想换成我最初下单的蓝色款，可以吗？", "relevant_doc_indices": [7]}
+{"query": "Saya butuh parfum pria yang tahan lama. Ada rekomendasi?", "relevant_doc_indices": [31]}
+{"query": "请问这款无线耳机是否支持主动降噪功能？另外，它的电池续航时间是多久？", "relevant_doc_indices": [30]}
+{"query": "Hai, pesanan saya [ORDER_ID] sudah seminggu belum sampai. Apakah ada masalah?", "relevant_doc_indices": [42]}
+{"query": "我收到的T恤尺码太大了，想换一个小一号的，可以吗？", "relevant_doc_indices": [7]}
+{"query": "Apakah laptop ini cocok untuk gaming berat?", "relevant_doc_indices": [31]}
+{"query": "你好，请问你们的商品如果尺码不合适，可以退换吗？退换的流程是怎样的？", "relevant_doc_indices": [38]}
+{"query": "Pesanan saya dengan nomor [ORDER_ID] sudah status 'dikirim' 5 hari yang lalu, tapi belum sampai. Mohon info.", "relevant_doc_indices": [13]}
+{"query": "我收到的T恤颜色不对，我想要的是蓝色，但送来的是绿色。可以换货吗？", "relevant_doc_indices": [8]}
+{"query": "Apakah laptop ini sudah termasuk software office? Dan apa saja aksesoris yang disertakan?", "relevant_doc_indices": [31]}
+{"query": "请问你们的退货政策是怎样的？我买了一件衣服，尺码不合适。", "relevant_doc_indices": [39]}
+{"query": "Apakah laptop ini sudah termasuk software office?", "relevant_doc_indices": [31]}
+{"query": "Saya ingin membatalkan pesanan [ORDER_ID] kerana saya tersalah pilih saiz. Bolehkah anda batalkan sebelum ia dihantar?", "relevant_doc_indices": [2]}
+{"query": "Order [ORDER_ID] is delayed. Customer is waiting. Need ETA.", "relevant_doc_indices": [41]}
+{"query": "我买的T恤尺码太大了，想换个小一点的，可以吗？", "relevant_doc_indices": [7]}
+{"query": "Kak, tas ransel yang waterproof itu muat untuk laptop ukuran berapa inch?", "relevant_doc_indices": [29]}
+{"query": "我想买这件衬衫，但不确定尺码。我身高175cm，体重70kg，平时穿L码，但这个牌子的尺寸表看起来偏小。", "relevant_doc_indices": [47]}
+{"query": "I'm a seller. My customer's parcel [TRACKING_ID] has been stuck at 'departed origin facility' for 5 days. This is affecting my store rating.", "relevant_doc_indices": [43]}
+{"query": "我的优惠券显示已使用，但我没有用过，订单号是[ORDER_ID]。", "relevant_doc_indices": [49]}
+{"query": "Tas ransel ini anti air tidak? Cocok untuk bawa laptop 15 inch?", "relevant_doc_indices": [31]}
+{"query": "Saya terima baju saiz M tapi terlalu kecil. Boleh tukar ke saiz L?", "relevant_doc_indices": [7]}
+{"query": "查询订单[ORDER_ID]的物流状态。", "relevant_doc_indices": [11]}
+{"query": "Bayaran saya tidak berjaya tapi wang sudah ditolak dari akaun bank. Macam mana ni?", "relevant_doc_indices": [21]}
+{"query": "My payment keeps failing with error code PAY_FAILED_05. Card works fine elsewhere.", "relevant_doc_indices": [20]}
+{"query": "Pembayaran saya gagal untuk pesanan [ORDER_ID] walaupun wang sudah dipotong dari akaun bank. Apa patut saya buat?", "relevant_doc_indices": [20]}
+{"query": "Can you track my order [ORDER_ID]? It says 'in transit' but no updates for 4 days.", "relevant_doc_indices": [11]}
+{"query": "Saya cuba bayar dengan kad kredit, tapi transaksi gagal. Kenapa?", "relevant_doc_indices": [19]}
+{"query": "Hey, my package tracking hasn't updated for 4 days. Is everything okay?", "relevant_doc_indices": [42]}
+{"query": "Saya cuba gunakan kod [VOUCHER_CODE] semasa checkout, tapi ia kata tak sah. Boleh tolong semak?", "relevant_doc_indices": [50]}
+{"query": "I tried to pay with my e-wallet but the transaction failed twice. The amount was deducted though.", "relevant_doc_indices": [19]}
+{"query": "Pembayaran saya dengan kad kredit gagal, tetapi wang sudah dipotong dari akaun saya.", "relevant_doc_indices": [22]}
+{"query": "My order was supposed to arrive last week, but it's still not here. The tracking hasn't updated.", "relevant_doc_indices": [40]}
+{"query": "Bagaimana prosedur pengembalian barang? Saya baru beli sepatu tapi ukurannya tidak pas.", "relevant_doc_indices": [38]}
+{"query": "Pengiriman barang saya sudah seminggu lebih belum sampai, padahal lokasi dekat.", "relevant_doc_indices": [3]}
+{"query": "I received a blender with a cracked jar. This is unacceptable for a new product.", "relevant_doc_indices": [23]}
+{"query": "Warna tas yang dikirim berbeda dengan di foto. Bisa tukar dengan warna yang sama dengan gambar?", "relevant_doc_indices": [7]}
+{"query": "I received my blender yesterday but it's making a horrible grinding noise. It's brand new! I'm really disappointed.", "relevant_doc_indices": [23]}
+{"query": "Saya ada voucher [VOUCHER_CODE] tapi tak dapat digunakan. Ralat kata 'voucher telah tamat tempoh'. Boleh tolong semak?", "relevant_doc_indices": [50]}
+{"query": "我订的是红色运动鞋，发来的是蓝色拖鞋。完全搞错了。", "relevant_doc_indices": [57]}
+{"query": "Paket saya sepertinya terjebak di sorting center sejak 3 hari lalu. Ada masalah apa ya?", "relevant_doc_indices": [42]}
+{"query": "Produk sepatu model A sudah habis ya? Kapan restock?", "relevant_doc_indices": [18]}
+{"query": "Hi, I saw this wireless earbuds on your site. Does it have active noise cancellation and what's the battery life like?", "relevant_doc_indices": [29]}
+{"query": "Tudung yang saya nak dah out of stock. Bila stok baru masuk?", "relevant_doc_indices": [16]}
+{"query": "Helo, saya nak guna voucher [VOUCHER_CODE] tapi ia tak berfungsi. Boleh tolong?", "relevant_doc_indices": [50]}
+{"query": "我想买这条裙子，但不确定选S还是M码，我身高160cm，体重50kg。", "relevant_doc_indices": [45]}
+{"query": "Pesanan saya lambat sangat. Bila nak sampai?", "relevant_doc_indices": [40]}
+{"query": "This is the second time my order has arrived damaged. I'm very disappointed.", "relevant_doc_indices": [3]}
+{"query": "我的包裹已经延迟了一周了，怎么回事？我非常着急。", "relevant_doc_indices": [40]}
+{"query": "Saya sudah komplain tiga kali tapi tidak ada solusi! Pelayanan kalian buruk sekali.", "relevant_doc_indices": [3]}
+{"query": "Saya ingin meminta bayaran balik untuk pesanan [ORDER_ID] kerana produk yang diterima rosak. Bolehkah anda proses permintaan ini?", "relevant_doc_indices": [35]}
+{"query": "Does this blender come with a manufacturer's warranty? If so, how do I claim it?", "relevant_doc_indices": [55]}
+{"query": "Saya sangat kecewa kerana pesanan saya yang sepatutnya tiba pada 1hb masih belum sampai. Ini sudah lewat seminggu!", "relevant_doc_indices": [40]}
+{"query": "请问你们卖的这款电风扇有保修吗？保修期是多久？", "relevant_doc_indices": [54]}
+{"query": "Saya ingin mengajukan permohonan pengembalian dana untuk pesanan [ORDER_ID]. Produk yang saya terima rusak dan tidak sesuai dengan deskripsi.", "relevant_doc_indices": [35]}
+{"query": "请问这个智能手表的保修政策是怎样的？保修期是多久？", "relevant_doc_indices": [55]}
+{"query": "I received a damaged item and would like a full refund. The product is completely unusable.", "relevant_doc_indices": [35]}
+{"query": "Barang elektronik saya rusak setelah satu bulan pemakaian. Apakah masih dalam garansi?", "relevant_doc_indices": [55]}
+{"query": "Saya ingin mengajukan pengembalian dana untuk barang yang rusak saat sampai. Kemasannya sudah penyok.", "relevant_doc_indices": [35]}
+{"query": "这款吸尘器有保修吗？如果坏了怎么维修？", "relevant_doc_indices": [55]}
+{"query": "Paket saya dengan nomor [TRACKING_ID] seharusnya sampai kemarin, tapi statusnya masih 'dalam perjalanan'. Ini sangat merepotkan karena saya butuh barangnya segera.", "relevant_doc_indices": [40]}
+{"query": "我想买一条裤子，但不确定尺码。我身高170cm，体重65kg，应该选多大呢？", "relevant_doc_indices": [45]}
+{"query": "Kode voucher saya tidak bisa dipakai saat checkout. Ada apa?", "relevant_doc_indices": [49]}
+{"query": "我身高170厘米，体重65公斤，应该选什么尺码？", "relevant_doc_indices": [45]}
+{"query": "Saya ingin mengajukan refund untuk pesanan [ORDER_ID]. Barang tidak sesuai dengan deskripsi.", "relevant_doc_indices": [35]}
+{"query": "请问这个电饭煲的保修期是多久？如何申请保修？", "relevant_doc_indices": [55]}
+{"query": "Halo, saya mau bayar pakai kartu kredit tapi terus gagal terus. Padahal kartunya masih aktif dan limitnya cukup. Kenapa ya?", "relevant_doc_indices": [21]}
+{"query": "这款手机壳什么时候补货？页面显示缺货了。", "relevant_doc_indices": [18]}
+{"query": "Cancel my order [ORDER_ID] now. Payment already made via credit card.", "relevant_doc_indices": [0]}
+{"query": "Saya nak minta refund untuk pesanan [ORDER_ID]. Barang tidak seperti yang digambarkan.", "relevant_doc_indices": [33]}
+{"query": "What is your return policy for electronics? I bought a laptop and I'm not sure if I can return it.", "relevant_doc_indices": [39]}
+{"query": "Saya nak beli baju T, tapi saya tak pasti saiz saya. Saya tinggi 170cm, berat 65kg. Saiz apa yang sesuai?", "relevant_doc_indices": [45]}
+{"query": "What's your return policy for clothing? I bought a shirt but it's a bit tight.", "relevant_doc_indices": [38]}
